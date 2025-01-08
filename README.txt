@@ -1,5 +1,5 @@
-BERTopic Podcast Topic Modeling
-Connor Gag
+# BERTopic Podcast Topic Modeling
+### Connor Gag
 
 All code can be found in the Jupyter Notebook called Final_Project_Code.ipynb
 
